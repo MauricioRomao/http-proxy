@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "\"proxy service\"",
+  "keywords": [
+    "PS",
+    "C:\\Users\\Mauro",
+    "Romão\\Videos\\projects\\http-proxy>"
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "git https://github.com/MauricioRomao/http-proxy"
+  },
+  "license": "ISC",
+  "author": "Mauro Romão",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
