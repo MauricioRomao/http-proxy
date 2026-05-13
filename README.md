@@ -16,7 +16,7 @@ O objetivo principal é simular um cenário real de produção, onde a aplicaç�
 graph LR
     A[Utilizador / Navegador] -->|Porta 80| B(Nginx Proxy)
     B -->|Filtro de Segurança| C{Tráfego Limpo?}
-    C -->|Sim| D[API Node.js - Porta 5000]
+    C -->|Sim| D[API Node.js - Porta 3000]
     C -->|Não| E[Bloqueio HTTP 403]
 ```
 
