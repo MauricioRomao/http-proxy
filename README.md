@@ -28,7 +28,7 @@ graph LR
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone github.com
+  https://github.com/MauricioRomao/http-proxy
    ```
 2. Entre na pasta do projeto:
    ```bash
@@ -39,7 +39,7 @@ graph LR
    docker-compose up --build
    ```
 
-O Proxy estará ativo e pronto para receber conexões em `http://localhost`.
+O Proxy estará ativo e pronto para receber conexões em `http://localhost:3000/`.
 
 ## 🧠 Aprendizados Académicos
 Este projeto foi desenvolvido com foco em estudos de infraestrutura de software e segurança defensiva, consolidando conceitos de:
