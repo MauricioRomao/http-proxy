@@ -39,7 +39,7 @@ graph LR
    docker-compose up --build
    ```
 
-O Proxy estará ativo e pronto para receber conexões em `http://localhost:3000/`.
+O Proxy estará ativo e pronto para receber conexões no  `http://localhost:3000/`.
 
 ## 🧠 Aprendizados Académicos
 Este projeto foi desenvolvido com foco em estudos de infraestrutura de software e segurança defensiva, consolidando conceitos de:
